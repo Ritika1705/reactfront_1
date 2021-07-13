@@ -1,0 +1,18 @@
+{
+  "features": [
+    {
+      "id": 9,
+      "name": "FEATURE 1",
+      "customkey": "TENANT",
+      "customval": "TENANT 1",
+      "fval": "TRUE"
+    },
+    {
+      "id": 10,
+      "name": "FEATURE 2",
+      "customkey": "APP",
+      "customval": "APP_2",
+      "fval": "TRUE"
+    }
+  ]
+}
